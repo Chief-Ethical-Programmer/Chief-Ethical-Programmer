@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Chief]
+# 👋 Hey there! I'm Chief
 
 ## 💻 About Me
 I'm a passionate developer with experience in:
