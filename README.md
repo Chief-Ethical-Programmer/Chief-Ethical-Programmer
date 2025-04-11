@@ -17,7 +17,7 @@ Always curious and constantly learning, I love building projects, solving proble
 - Linux & Networking Fundamentals
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/kaushik-kumar-b-1016b6310/)
+- [LinkedIn](https://www.linkedin.com/in/kaushikbarman01/)
 - [Tryhackme](https://tryhackme.com/p/Kaushik01)
 
 ---
