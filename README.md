@@ -18,7 +18,7 @@ Always curious and constantly learning, I love building projects, solving proble
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/kaushik-kumar-b-1016b6310/)
-- [Tryhackme]([TryHackMe | Kaushik01](https://tryhackme.com/p/Kaushik01)
+- [Tryhackme](https://tryhackme.com/p/Kaushik01)
 
 ---
 
