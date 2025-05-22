@@ -4,7 +4,7 @@
 I'm a passionate developer with experience in:
 - 🐍 **Python**
 - 💻 **C Programming**
-- 🌐 **HTML**
+- 🖥️ **Bash**
 - 🗃️ **MySQL**
 - 🔐 **Cybersecurity Enthusiast**
 
