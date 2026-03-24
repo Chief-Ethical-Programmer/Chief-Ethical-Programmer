@@ -8,7 +8,7 @@ I'm a passionate developer with experience in:
 - 🗃️ **MySQL**
 - 🔐 **Cybersecurity Enthusiast**
 
-Always curious and constantly learning, I love building projects, solving problems, and exploring the world of security and ethical hacking.
+Always curious and constantly learning, I love building projects, solving problems, and exploring the world of security, ethical hacking, hardware and IOT.
 
 ## 🚀 Currently Exploring
 - Offensive & Defensive Security Techniques
